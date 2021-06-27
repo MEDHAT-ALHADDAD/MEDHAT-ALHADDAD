@@ -1,4 +1,4 @@
-<a href="https://www.medhat-alhaddad.ml"><img .center-fit={max-width: 100%;} src="bio.gif"></img></a>
+<a href="https://www.medhat-alhaddad.ml"><img width="100" src="bio.gif"></img></a>
 
 ### :space_invader: &nbsp;About Me
 
