@@ -117,10 +117,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=MEDHAT-ALHADDAD&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/MEDHAT-ALHADDAD/MEDHAT-ALHADDAD?color=black&logo=github" />
-</p>
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MEDHAT-ALHADDAD/MEDHAT-ALHADDAD.svg" />
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/MEDHAT-ALHADDAD/MEDHAT-ALHADDAD.svg" />
 </p>
 
 ## Support me
