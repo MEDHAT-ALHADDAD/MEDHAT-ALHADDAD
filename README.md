@@ -2,7 +2,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Computer Enginnering and Software Systems (AinShames University) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as Software Developer at ShakaCode \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Studied Computer Enginnering and Software Systems (AinShames University) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.
 
