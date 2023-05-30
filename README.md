@@ -2,8 +2,8 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Currently working as React | Ruby on Rails Developer @ShakaCode
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous Ruby on Rails Back End Developer @Popmenu
+&nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Currently working as React | Ruby on Rails Developer @ShakaCode\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous Ruby on Rails Back End Developer @Popmenu\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous React Native Developer @Femesty\
 &nbsp;&nbsp;&nbsp;:man_student: &nbsp;Studied Computer Enginnering and Software Systems @Ain Shams University \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for Analysis and Engineering\
@@ -29,17 +29,17 @@
   ![numpy](https://img.shields.io/badge/NUMPY-013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
   ![pandas](https://img.shields.io/badge/PANDAS-150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
   ![matplotlib](https://img.shields.io/badge/MATPLOTLIB-150458.svg?&style=flat&logo=matplotlib&logoColor=white)&nbsp;
-  ![seaborn](https://img.shields.io/badge/SEABORN-150458.svg?&style=flat&logo=seaborn&logoColor=white)&nbsp;\
+  ![seaborn](https://img.shields.io/badge/SEABORN-150458.svg?&style=flat&logo=seaborn&logoColor=white)&nbsp;
   ![sklearn](https://img.shields.io/badge/SKLEARN-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;\
-  ![power bi](https://img.shields.io/badge/POWER%20BI-F2C811.svg?&style=flat&logo=power-bi&logoColor=black)&nbsp;
+  ![power bi](https://img.shields.io/badge/POWER%20BI-F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=black)&nbsp;
   ![dax](https://img.shields.io/badge/DAX-000000.svg?&style=flat&logo=dax&logoColor=white)&nbsp;
   ![power query](https://img.shields.io/badge/POWER%20QUERY-000000.svg?&style=flat&logo=power-query&logoColor=white)&nbsp;
   ![m language](https://img.shields.io/badge/M%20LANGUAGE-000000.svg?&style=flat&logo=m-language&logoColor=white)&nbsp;\
-  ![jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;
-  ![data analysis](https://img.shields.io/badge/DATA%20ANALYSIS-000000.svg?&style=flat&logo=data-analysis&logoColor=white)&nbsp;\
-  ![etl](https://img.shields.io/badge/ETL-000000.svg?&style=flat&logo=etl&logoColor=white)&nbsp;
-  ![eda](https://img.shields.io/badge/EDA-0000A1.svg?&style=flat&logo=eda&logoColor=white)&nbsp;
-![dimensional modeling](https://img.shields.io/badge/DIMENSIONAL%20MODELING-000000.svg?&style=flat&logo=dimensional-modeling&logoColor=white)&nbsp;
+  ![jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+  ![data analysis](https://img.shields.io/badge/DATA%20ANALYSIS-4EA94B.svg?&style=flat&logo=data-analysis&logoColor=white)&nbsp;
+  ![etl](https://img.shields.io/badge/Extract%20Transfer%20Load-CC0000.svg?&style=flat&logo=eda&logoColor=white)&nbsp;
+![dimensional modeling](https://img.shields.io/badge/DIMENSIONAL%20MODELING-430098.svg?&style=flat&logo=dimensional-modeling&logoColor=white)&nbsp;
+  ![eda](https://img.shields.io/badge/Exploratory%20Data%20Analysis-F7DF1E.svg?&style=flat&logo=etl&logoColor=white)&nbsp;
 
 
 </details>
@@ -48,26 +48,26 @@
   <summary><b>:cloud: &nbsp;Cloud Tools</b></summary>
   <br/>
 
-  ![aws](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![aws s3](https://img.shields.io/badge/AWS%20S3-232F3E.svg?&style=flat&logo=amazon-s3&logoColor=white)&nbsp;\
+  ![aws](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+  ![aws s3](https://img.shields.io/badge/AWS%20S3-232F3E.svg?&style=flat&logo=amazon-s3&logoColor=white)&nbsp;
   ![aws ec2](https://img.shields.io/badge/AWS%20EC2-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-  ![aws rds](https://img.shields.io/badge/AWS%20RDS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;\
+  ![aws rds](https://img.shields.io/badge/AWS%20RDS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
   ![aws cloudwatch](https://img.shields.io/badge/AWS%20CLOUDWATCH-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
   ![aws vpc](https://img.shields.io/badge/AWS%20VPC-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
   ![aws lambda](https://img.shields.io/badge/AWS%20LAMBDA-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
   ![aws kes](https://img.shields.io/badge/AWS%20KES-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;\
-  ![heroku](https://img.shields.io/badge/HEROKU-430098.svg?&style=flat&logo=heroku&logoColor=white)&nbsp;
+  ![heroku](https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 </details>
 
 <details>
   <summary><b>:bucket: &nbsp;Databases</b></summary>
   <br/>
 
-  ![sql](https://img.shields.io/badge/SQL-000000.svg?&style=flat&logo=sql&logoColor=white)&nbsp;
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;\
-  ![mysql](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
-  ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+  ![SQL](https://img.shields.io/badge/SQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+  ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
 </details>
 <details>
   <summary><b>:globe_with_meridians: &nbsp;Full Stack Tools</b></summary>
@@ -77,17 +77,17 @@
   ![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
   ![react native](https://img.shields.io/badge/REACT%20NATIVE-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
   ![react router](https://img.shields.io/badge/REACT%20ROUTER-CA4245.svg?&style=flat&logo=react-router&logoColor=white)&nbsp;
-  ![redux](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=redux&logoColor=white)&nbsp;\
-  ![nodejs](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+  ![redux](https://img.shields.io/badge/REDUX-764ABC.svg?&style=flat&logo=redux&logoColor=white)&nbsp;
+  ![jest](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
+  ![cypress](https://img.shields.io/badge/CYPRESS-17202C.svg?&style=flat&logo=cypress&logoColor=white)&nbsp;
+  ![nodejs](https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;\
-  ![jest](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;\
-  ![cypress](https://img.shields.io/badge/CYPRESS-17202C.svg?&style=flat&logo=cypress&logoColor=white)&nbsp;\
-  ![ruby](https://img.shields.io/badge/RUBY-CC342D.svg?&style=flat&logo=ruby&logoColor=white)&nbsp;
+  ![ruby](https://img.shields.io/badge/RUBY-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
   ![ruby on rails](https://img.shields.io/badge/RUBY%20ON%20RAILS-CC0000.svg?&style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
-  ![rspc](https://img.shields.io/badge/RSPC-616161.svg?&style=flat&logo=rspc&logoColor=white)&nbsp;\
-  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
+  ![rspc](https://img.shields.io/badge/RSPC-616161.svg?&style=flat&logo=rspc&logoColor=white)&nbsp;
+  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)&nbsp;\
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
   ![bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
   ![scss](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
   ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
