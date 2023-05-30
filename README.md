@@ -99,32 +99,29 @@
   <summary><b> :calendar: &nbsp;Productivity </b></summary>
   <br/>
 
-  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
   ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-  ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
-  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+  ![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
   ![shell script](https://img.shields.io/badge/SHELL%20SCRIPT-121011.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;\
-  ![eslint](https://img.shields.io/badge/ESLINT-4B32C3.svg?&style=flat&logo=eslint&logoColor=white)&nbsp;
+  ![eslint](https://img.shields.io/badge/ESLINT-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
   ![prettier](https://img.shields.io/badge/PRETTIER-F7B93E.svg?&style=flat&logo=prettier&logoColor=white)&nbsp;
   ![sonarlint](https://img.shields.io/badge/SONARLINT-4E9BCD.svg?&style=flat&logo=sonarlint&logoColor=white)&nbsp;
-  ![sonarqube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;\
-  ![figma](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=flat&logo=figma&logoColor=white)&nbsp;\
-  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-  ![notion](https://img.shields.io/badge/NOTION-000000.svg?&style=flat&logo=notion&logoColor=white)&nbsp;
+  ![sonarqube](https://img.shields.io/badge/SONARQUBE-4E9BCD.svg?&style=flat&logo=sonarqube&logoColor=white)&nbsp;
+  ![figma](https://img.shields.io/badge/FIGMA-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;\
+  ![notion](https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)&nbsp;
   ![trello](https://img.shields.io/badge/TRELLO-0079BF.svg?&style=flat&logo=trello&logoColor=white)&nbsp;
   ![shortcut](https://img.shields.io/badge/SHORTCUT-000000.svg?&style=flat&logo=shortcut&logoColor=white)&nbsp;
-  ![slack](https://img.shields.io/badge/SLACK-4A154B.svg?&style=flat&logo=slack&logoColor=white)&nbsp;\
-  ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![slack](https://img.shields.io/badge/SLACK-4A154B.svg?&style=flat&logo=slack&logoColor=white)&nbsp;
+  ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![MAC OS](https://img.shields.io/badge/MAC%20OS-000000?style=flat-square&logo=apple&logoColor=white)&nbsp;
   ![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=windows&logoColor=white)&nbsp;
   </details>
   
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
+<hr/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=MEDHAT-ALHADDAD&theme=aura&hide_border=true" />
     </p>
@@ -132,10 +129,9 @@
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MEDHAT-ALHADDAD&show_icons=true&theme=aura" /> 
         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEDHAT-ALHADDAD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-</details>
+
 
 <hr/>
-<br/>
 
 <p align="right">
 </p>
