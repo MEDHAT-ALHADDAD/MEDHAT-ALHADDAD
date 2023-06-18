@@ -20,10 +20,10 @@
 </p>
 
 <hr/>
-
-<details>
-  <summary><b>:chart_with_upwards_trend: &nbsp;Data Analyst Tools</b></summary>
+  <b>:chart_with_upwards_trend: &nbsp;Data Analyst Tools</b>
   <br/>
+  <br/>
+
 
   ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![numpy](https://img.shields.io/badge/NUMPY-013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
@@ -38,14 +38,10 @@
   ![jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
   ![data analysis](https://img.shields.io/badge/DATA%20ANALYSIS-4EA94B.svg?&style=flat&logo=data-analysis&logoColor=white)&nbsp;
   ![etl](https://img.shields.io/badge/Extract%20Transfer%20Load-CC0000.svg?&style=flat&logo=eda&logoColor=white)&nbsp;
-![dimensional modeling](https://img.shields.io/badge/DIMENSIONAL%20MODELING-430098.svg?&style=flat&logo=dimensional-modeling&logoColor=white)&nbsp;
+  ![dimensional modeling](https://img.shields.io/badge/DIMENSIONAL%20MODELING-430098.svg?&style=flat&logo=dimensional-modeling&logoColor=white)&nbsp;
   ![eda](https://img.shields.io/badge/Exploratory%20Data%20Analysis-F7DF1E.svg?&style=flat&logo=etl&logoColor=white)&nbsp;
 
-
-</details>
-
-<details>
-  <summary><b>:cloud: &nbsp;Cloud Tools</b></summary>
+  <b>:cloud: &nbsp;Cloud Tools</b>
   <br/>
 
   ![aws](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
@@ -57,10 +53,8 @@
   ![aws lambda](https://img.shields.io/badge/AWS%20LAMBDA-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
   ![aws kes](https://img.shields.io/badge/AWS%20KES-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;\
   ![heroku](https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-</details>
 
-<details>
-  <summary><b>:bucket: &nbsp;Databases</b></summary>
+  <b>:bucket: &nbsp;Databases</b>
   <br/>
 
   ![SQL](https://img.shields.io/badge/SQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -68,9 +62,8 @@
   ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
   ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-</details>
-<details>
-  <summary><b>:globe_with_meridians: &nbsp;Full Stack Tools</b></summary>
+
+  <b>:globe_with_meridians: &nbsp;Full Stack Tools</b>
   <br/>
 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -93,10 +86,7 @@
   ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
 
 
-</details>
-
-<details>
-  <summary><b> :calendar: &nbsp;Productivity </b></summary>
+  <b> :calendar: &nbsp;Productivity </b>
   <br/>
 
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
