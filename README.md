@@ -1,5 +1,5 @@
 <a href="https://www.medhat-alhaddad.ml"><img width="100%" src="bio.gif"></img></a>
-
+[My Resume](https://docs.google.com/document/d/1XaAnfVwe8WRY3Zf5JRjvYfSMViiH91AW8Qm9OfUCrfc/edit?usp=sharing)
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Currently working as React | Ruby on Rails Developer @ShakaCode\
