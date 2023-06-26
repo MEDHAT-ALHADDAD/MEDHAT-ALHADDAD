@@ -1,5 +1,4 @@
 <a href="https://www.medhat-alhaddad.ml"><img width="100%" src="bio.gif"></img></a>
-[My Resume](https://docs.google.com/document/d/1XaAnfVwe8WRY3Zf5JRjvYfSMViiH91AW8Qm9OfUCrfc/edit?usp=sharing)
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:man_technologist: &nbsp;Currently working as React | Ruby on Rails Developer @ShakaCode\
@@ -7,7 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previous React Native Developer @Femesty\
 &nbsp;&nbsp;&nbsp;:man_student: &nbsp;Studied Computer Enginnering and Software Systems @Ain Shams University \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for Analysis and Engineering\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for Data Analytics and Strategy Games
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for Data Analytics and Strategy Games\
+[Resume](https://docs.google.com/document/d/1XaAnfVwe8WRY3Zf5JRjvYfSMViiH91AW8Qm9OfUCrfc/edit?usp=sharing)
 
 <p align="center">
   <a href="mailto:medhat.alhaddad@gmail.com?subject=Hello%20Medhat%20Alhaddad"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
