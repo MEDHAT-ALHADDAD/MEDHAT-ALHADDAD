@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for Analysis and Engineering\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate for Data Analytics and Strategy Games\
 [Software Resume](https://docs.google.com/document/d/1sFYaOx8Oxu2EBFRh6cCkCWLLqrd7ZD04F5P9sMbwxpg/edit?usp=sharing)\
-[Data Analyst | BI Resume]([https://docs.google.com/document/d/1XaAnfVwe8WRY3Zf5JRjvYfSMViiH91AW8Qm9OfUCrfc/edit?usp=sharing](https://docs.google.com/document/d/1vK9JCQ-XCqg26DeNYwHFpb4ywSgZSvSAy8S-UsAP_DI/edit?usp=sharing))
+[Data Analyst | BI Resume](https://docs.google.com/document/d/1vK9JCQ-XCqg26DeNYwHFpb4ywSgZSvSAy8S-UsAP_DI/edit?usp=sharing)
 
 <p align="center">
   <a href="mailto:medhat.alhaddad@gmail.com?subject=Hello%20Medhat%20Alhaddad"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
