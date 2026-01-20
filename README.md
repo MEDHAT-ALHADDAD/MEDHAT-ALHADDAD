@@ -89,7 +89,68 @@ I like understanding things **deeply** — not just using them.
 - 🧠 **Distributed Systems Internals**
 
 ---
+## ⭐ Pinned Projects (Things I Actually Built)
 
+> A small selection of projects I enjoyed working on —
+> some are analytical, some technical, all taught me something.
+
+---
+
+### 📚 **Data Projects Catalogue**
+
+**My personal data playground & archive.**
+
+A curated collection of my work in:
+
+* Exploratory Data Analysis
+* SQL case studies
+* Business analytics
+* Machine learning experiments
+
+🔗 **Explore here →**
+👉 [https://github.com/MEDHAT-ALHADDAD/Data-Projects-Catalogue](https://github.com/MEDHAT-ALHADDAD/Data-Projects-Catalogue)
+
+> *This is where most of my data experiments live.*
+
+---
+
+### 📊 **Global Terrorism — EDA & Dashboard**
+
+**Turning complex global data into readable insights.**
+
+* Real-world dataset
+* Strong storytelling focus
+* Insight-driven visualizations
+
+🔗 [https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding](https://github.com/MEDHAT-ALHADDAD/Global-Terrorism---Exploratory-Data-Analysis-and-Dashboarding)
+
+---
+
+### 🍕 **Pizza Runner — SQL Case Study**
+
+**A fun but serious SQL project.**
+
+* Business-driven questions
+* KPI-oriented thinking
+* Clean analytical SQL
+
+🔗 [https://github.com/MEDHAT-ALHADDAD/Pizza_Runner](https://github.com/MEDHAT-ALHADDAD/Pizza_Runner)
+
+---
+
+### 🛍️ **Super Store Retail — EDA**
+
+**Sales, profit, and performance analysis.**
+
+* Practical business insights
+* Dashboard-ready outputs
+* Clear analytical reasoning
+
+🔗 [https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding](https://github.com/MEDHAT-ALHADDAD/Super-Store-Retail-Exploratory-Data-Analysis-and-Dashboarding)
+
+---
+> ✨ *More projects live in the catalogue — this is just the highlight reel.*
+---
 ## 🧯 Data Incidents I Survived  
 *(the real résumé)*
 
