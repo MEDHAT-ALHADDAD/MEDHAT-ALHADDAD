@@ -24,42 +24,95 @@ These days I spend most of my time:
 
 I like understanding things **deeply** — not just using them.
 
----
-
-## What I Play With
-
-<div align="right">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 </div>
 
-### Data & Engineering
-- Python, SQL  
-- Spark / PySpark  
-- Airflow  
-- Hive, Impala  
-- Kafka, Flink  
-- Batch & Streaming pipelines  
+---
 
-### Data Modeling & Analytics
-- Star & Snowflake schemas  
-- ETL / ELT patterns  
-- Warehouses & Lakehouses  
-- Analytics-friendly datasets  
+## What I Play With  
+*(tools come after thinking)*
 
-### Platforms
-- Cloudera CDP (HDFS, YARN, Hive, Spark)
-- Databricks
-- GCP (BigQuery)
-- AWS
-- Informatica, Denodo
+### 🧠 Core Data Engineering
+- 🐍 **Python**
+- 🧮 **SQL**
+- ⚡ **Apache Spark / PySpark**
+- 🛫 **Apache Airflow**
+- 🐘 **Apache Hive**
+- 🚀 **Apache Impala**
+- 📬 **Apache Kafka**
+- 🌊 **Apache Flink**
+- 🔁 **Batch & Streaming Pipelines**
 
-### Ops & Under-the-Hood
-- Linux
-- Docker
-- CI/CD
-- Ranger, Atlas
-- Kerberos & TLS
-- Performance tuning & debugging at 3 AM
+---
+
+### 📊 Data Modeling & Analytics
+- 🗂 **Dimensional Modeling (Star / Snowflake)**
+- 🥇 **Medallion Architecture (Bronze / Silver / Gold)**
+- 🔄 **ETL / ELT Design Patterns**
+- 📈 **Analytics-Ready Datasets**
+- ✅ **Data Quality & Validation**
+---
+
+### 🏗️ Data Platforms & Cloud
+- 🧱 **Cloudera CDP (HDFS, YARN, Hive, Spark)**
+- 🧠 **Databricks**
+- ☁️ **Google Cloud Platform (BigQuery)**
+- ☁️ **AWS**
+- 🧩 **Informatica (DEI / EDC)**
+- 🔍 **Denodo**
+
+---
+
+### ⚙️ Platform Ops, Security & Reality
+- 🐧 **Linux (RHEL / CentOS)**
+- 📦 **Docker**
+- 🔧 **CI/CD Pipelines**
+- 🛡 **Apache Ranger**
+- 🧭 **Apache Atlas**
+- 🔐 **Kerberos Authentication**
+- 🔒 **TLS / SSL**
+- 🔥 **Spark & SQL Performance Tuning**
+- 🧯 **Production Incident Handling**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="260"/>
+</div>
+
+---
+
+### 🚀 Actively Exploring / Next
+- 🧊 **Lakehouse Formats (Iceberg / Delta / Hudi)**
+- 🔎 **Data Observability**
+- 🧱 **Infrastructure as Code (Terraform)**
+- ☸️ **Kubernetes for Data Platforms**
+- 🧠 **Distributed Systems Internals**
+
+---
+
+## 🧯 Data Incidents I Survived  
+*(the real résumé)*
+
+> Every data engineer has scars. These are some of mine.
+
+- 🔥 **Warehouse deleted in production**  
+  Recovered by prioritizing dependencies, restoring from DR, reprocessing Spark jobs, and backfilling critical tables — reports delivered the same day.
+
+- 🐌 **Queries that never returned**  
+  Tracked down Hive small-files issues, fixed compaction & storage layout, and restored query reliability.
+
+- ⏰ **Pipelines finishing at 4 PM (not acceptable)**  
+  Optimized Airflow concurrency, Spark/YARN resources, and moved to event-driven DAGs → pipelines completed by 6 AM.
+
+- 🌪️ **Full production ownership during team absence**  
+  Ran Airflow, Spark, and Informatica pipelines solo for weeks — zero downtime, multiple incidents resolved.
+
+- 🔁 **Replication stuck at 70% forever**  
+  Diagnosed platform issues, tuned jobs, and stabilized cross-cluster replication to 100%.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+</div>
 
 ---
 
@@ -81,19 +134,27 @@ I still enjoy clean code, good abstractions, and well-designed systems — just 
 - ✍️ Organizing knowledge (Notion, notes, diagrams)
 - ☕ Over-engineering simple things for fun
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
 </div>
 
+---
+
 ## Find Me Around the Internet
 
 <p align="center">
-  <a href="mailto:medhat.alhaddad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/medhat-alhaddad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/MEDHAT-ALHADDAD"><img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://dev.to/medhatalhaddad/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev-dot-to&logoColor=white" /></a>
+  <a href="mailto:medhat.alhaddad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/medhat-alhaddad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/MEDHAT-ALHADDAD">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://dev.to/medhatalhaddad/">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev-dot-to&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -105,4 +166,4 @@ I still enjoy clean code, good abstractions, and well-designed systems — just 
 
 ---
 
-⭐ *This profile is a snapshot of how I think, build, and learn — not just what I use.*
+⭐ *This profile is a snapshot of how I think, build, break, and fix systems.*
