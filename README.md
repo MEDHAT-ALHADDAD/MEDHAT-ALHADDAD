@@ -111,7 +111,18 @@ A curated collection of my work in:
 👉 [https://github.com/MEDHAT-ALHADDAD/Data-Projects-Catalogue](https://github.com/MEDHAT-ALHADDAD/Data-Projects-Catalogue)
 
 > *This is where most of my data experiments live.*
+---
+### 🔥 **Real-Time Social Media Sentiment Pipeline**
 
+**Streaming-first sentiment analysis pipeline (Arabic / English).**
+
+- Bronze → Silver → Gold architecture  
+- Batch + real-time processing  
+- Feature extraction for training & inference  
+- Production-inspired ML data platform design  
+
+🔗 https://github.com/MEDHAT-ALHADDAD/Sentment_analysis_protoype
+---
 ---
 
 ### 📊 **Global Terrorism — EDA & Dashboard**
